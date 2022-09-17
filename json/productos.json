@@ -1,0 +1,208 @@
+[{
+        "id": 1,
+        "tipo": "Mouse",
+        "nombre": "Mouse Redragon Gainer",
+        "precio": 4500,
+        "foto": "../media/products/GAINER.webp"
+    }, {
+        "id": 2,
+        "tipo": "Mouse",
+        "nombre": "Mouse Redragon Impact",
+        "precio": 2800,
+        "foto": "../media/products/IMPACT.webp"
+    }, {
+        "id": 3,
+        "tipo": "Mouse",
+        "nombre": "Mouse Redragon Emperor",
+        "precio": 4000,
+        "foto": "../media/products/EMPEROR.webp"
+    }, {
+        "id": 4,
+        "tipo": "Mouse",
+        "nombre": "Mouse Redragon Griffin",
+        "precio": 2000,
+        "foto": "../media/products/GRIFFIN.webp"
+    }, {
+        "id": 5,
+        "tipo": "Mouse",
+        "nombre": "Mouse Redragon Invader",
+        "precio": 2000,
+        "foto": "../media/products/INVADER.webp"
+    }, {
+        "id": 6,
+        "tipo": "Mouse",
+        "nombre": "Mouse Redragon Cobra White",
+        "precio": 4500,
+        "foto": "../media/products/COBRAW.webp"
+    }, {
+        "id": 7,
+        "tipo": "Mouse",
+        "nombre": "  Mouse Redragon Centrophorus",
+        "precio": 3200,
+        "foto": "../media/products/CENTROPHORUS.webp"
+    }, {
+        "id": 8,
+        "tipo": "Mouse",
+        "nombre": "Mouse Redragon Chroma",
+        "precio": 4000,
+        "foto": "../media/products/COBRA.webp"
+    },
+    {
+        "id": 9,
+        "tipo": "Mouse",
+        "nombre": "Mouse Redragon Storm Elite",
+        "precio": 4000,
+        "foto": "../media/products/STORM.webp"
+    },
+    {
+        "id": 10,
+        "tipo": "Mouse",
+        "nombre": " Mouse Redragon Dagger",
+        "precio": 6500,
+        "foto": "../media/products/DAGGER.webp"
+    }, {
+        "id": 11,
+        "tipo": "Mouse",
+        "nombre": "Mouse Redragon Memeanlion Chroma",
+        "precio": 6500,
+        "foto": "../media/products/meme.webp"
+    }, {
+        "id": 12,
+        "tipo": "Mouse",
+        "nombre": "Mouse Redragon Phoenix",
+        "precio": 3800,
+        "foto": "../media/products/PHOENIX.webp"
+    }, {
+        "id": 13,
+        "tipo": "Teclado",
+        "nombre": "Teclado Redragon Brahma Pro",
+        "precio": 3800,
+        "foto": "../media/products/BRAHMA.webp"
+    }, {
+        "id": 14,
+        "tipo": "Teclado",
+        "nombre": "Teclado Redragon Aryaman",
+        "precio": 4500,
+        "foto": "../media/products/ARYAMAN.webp"
+    }, {
+        "id": 15,
+        "tipo": "Teclado",
+        "nombre": "Teclado Redragon Centaur",
+        "precio": 4000,
+        "foto": "../media/products/CENTAUR.webp"
+    }, {
+        "id": 16,
+        "tipo": "Teclado",
+        "nombre": "Teclado Redragon Dark Avenger",
+        "precio": 2000,
+        "foto": "../media/products/DARK.webp"
+    }, {
+        "id": 17,
+        "tipo": "Teclado",
+        "nombre": "Teclado Redragon Diti",
+        "precio": 2000,
+        "foto": "../media/products/DITI.webp"
+    }, {
+        "id": 18,
+        "tipo": "Teclado",
+        "nombre": "Teclado Redragon Draconic",
+        "precio": 4000,
+        "foto": "../media/products/DRACONIC.webp"
+    }, {
+        "id": 19,
+        "tipo": "Teclado",
+        "nombre": "  Teclado Redragon Kumara",
+        "precio": 3000,
+        "foto": "../media/products/KUMARA.webp"
+    }, {
+        "id": 20,
+        "tipo": "Teclado",
+        "nombre": "Teclado Redragon Mitra",
+        "precio": 4000,
+        "foto": "../media/products/MITRA.webp"
+    }, {
+        "id": 21,
+        "tipo": "Teclado",
+        "nombre": " Teclado Redragon Yama",
+        "precio": 6500,
+        "foto": "../media/products/yama.webp"
+    }, {
+        "id": 22,
+        "tipo": "Teclado",
+        "nombre": " Teclado Redragon Magic Wand",
+        "precio": 4000,
+        "foto": "../media/products/magic.webp"
+    }, {
+        "id": 23,
+        "tipo": "Teclado",
+        "nombre": "Teclado Redragon Karura",
+        "precio": 6500,
+        "foto": "../media/products/karura.webp"
+    }, {
+        "id": 24,
+        "tipo": "Teclado",
+        "nombre": "Teclado Redragon Dyaus",
+        "precio": 4000,
+        "foto": "../media/products/dyaus.webp"
+    }, {
+        "id": 25,
+        "tipo": "Auriculares",
+        "nombre": "Redragon Memecoleous",
+        "precio": 4500,
+        "foto": "../media/products/memeco.webp"
+    }, {
+        "id": 26,
+        "tipo": "Auriculares",
+        "nombre": "Redragon Ares",
+        "precio": 1200,
+        "foto": "../media/products/ares.webp"
+    }, {
+        "id": 27,
+        "tipo": "Auriculares",
+        "nombre": "Redragon Siren",
+        "precio": 2700,
+        "foto": "../media/products/siren.webp"
+    }, {
+        "id": 28,
+        "tipo": "Auriculares",
+        "nombre": "Redragon Scylla",
+        "precio": 1550,
+        "foto": "../media/products/scylla.webp"
+    }, {
+        "id": 29,
+        "tipo": "Auriculares",
+        "nombre": "Redragon Talos",
+        "precio": 2500,
+        "foto": "../media/products/talos.webp"
+    }, {
+        "id": 30,
+        "tipo": "Auriculares",
+        "nombre": "Redragon Themis",
+        "precio": 1200,
+        "foto": "../media/products/themis.webp"
+    }, {
+        "id": 31,
+        "tipo": "Auriculares",
+        "nombre": "Razer Kraken",
+        "precio": 4500,
+        "foto": "../media/products/kraken.webp"
+    }, {
+        "id": 32,
+        "tipo": "Auriculares",
+        "nombre": "Razer Thunder 2",
+        "precio": 3200,
+        "foto": "../media/products/thunder.webp"
+    }, {
+        "id": 33,
+        "tipo": "Auriculares",
+        "nombre": "Redragon Zeus White",
+        "precio": 8000,
+        "foto": "../media/products/zeus2.webp"
+    }, {
+        "id": 34,
+        "tipo": "Auriculares",
+        "nombre": "Redragon Zeus",
+        "precio": 3200,
+        "foto": "../media/products/zeus.webp"
+    }
+]
